@@ -29,3 +29,5 @@
        GitHub
        GitLab
        Bitbucket
+
+# Виконала: Демчук Олеся
